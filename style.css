@@ -3,6 +3,7 @@ body{
 }
 h1{
     color: palevioletred;
+    margin: 20px auto;
 }
 .uno{
     background-color: paleturquoise;
